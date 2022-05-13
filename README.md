@@ -2,7 +2,7 @@
 Splunk Technical Add-On for Netscout Arbor Edge Defense
 
 
-There was an existing TA from Arbor on https://github.com/arbor/TA_netscout_aed from 2019, but that did not match any of the traffic when sending events to a Syslog server. Wrote a new TA to CIM all the appropaite fields to the IDS Datamodel and CIM it accordingly.
+There was an existing TA from Arbor on https://github.com/arbor/TA_netscout_aed from 2019, but that did not match any of the traffic when sending events to a Syslog server. Wrote a new TA to CIM all the appropaite fields to the Intrusion Detection Datamodel and CIM it accordingly.
 
  The regular expressions will match on similar events that are formed according to this structure:
  
