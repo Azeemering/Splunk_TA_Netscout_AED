@@ -1,5 +1,5 @@
 # Splunk_TA_Netscout_AED
-Splunk Technical Add-On for Netscout Arbor Edge Defense
+Splunk Technical Add-On for NETSCOUT Arbor Edge Defense (AED)
 
 
 There was an existing TA from Arbor on hxxps://github.com/arbor/TA_netscout_aed from 2019, but that did not match any of the traffic when sending events to a Syslog server. So I wrote a new TA to CIM all the appropiate fields to the Intrusion Detection Datamodel and CIM it accordingly.
