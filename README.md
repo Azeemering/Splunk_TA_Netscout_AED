@@ -1,6 +1,13 @@
 # Splunk_TA_Netscout_AED
 Splunk Technical Add-On for NETSCOUT Arbor Edge Defense (AED)
 
+Basically there are 3 options for selection of export format of the logs:
+
+- Legacy
+- CEF
+- LEEF
+
+This app will match the Legacy format.
 
 There was an existing TA from Arbor on hxxps://github.com/arbor/TA_netscout_aed from 2019, but that did not match any of the traffic when sending events to a Syslog server. That app expects the format to be CEF or LEEF. So I wrote a new TA to CIM all the appropiate fields to the Intrusion Detection Datamodel and CIM it accordingly.
 This app is for Legacy mode data export to syslog.
