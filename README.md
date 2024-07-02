@@ -26,6 +26,6 @@ The regular expressions will match on similar events that are formed according t
 <b>eventtype=cloud</b><br>
 2022-05-16T02:40:08.000000+02:00 HOSTNAME arbor-networks-aps:Cloud Signaling: The Cloud Signaling provider does not manage the traffic for any  of the protected host prefixes in protection group 'Default Protection Group, pg_DEFAULT-PROTECTION-GROUP-IPV6, pg_TEST-COMCERT, pg_xx-01_xxx-1, pg_xx-02_xxxxxxxxxxxx, pg_xx-04_xxxxxxxxx, pg_xx-05_xxxxxxxxx, pg_ST-23_pg_xx-xx_xxx-Internet'.,URL: hxxps://yourhostname/summary/
 
-For support, questions or suggestions contact me @ andre.zeemering@umbrio.com
+For support, questions or suggestions contact me @ andre.zeemering@gmail.com
 
 Next version is currently in development. This will support all 3 logging formats.
