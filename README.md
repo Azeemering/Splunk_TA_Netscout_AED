@@ -1,4 +1,7 @@
 # Splunk_TA_Netscout_AED
+
+Released on Splunkbase: https://splunkbase.splunk.com/app/6441
+
 Splunk Technical Add-On for NETSCOUT Arbor Edge Defense (AED)
 
 Basically there are 3 options for selection of export format of the logs:
